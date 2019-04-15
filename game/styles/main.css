@@ -41,12 +41,13 @@ li{
   background: black;
 }
 
-#logo{
-  width: 30px;
-}
 
 .logoBloc{
   text-align: center;
+}
+
+main{
+  display: flex;
 }
 
 .playButton{
@@ -54,7 +55,9 @@ li{
   color: #fff;
   margin: 200px;
   padding: 2px;
+  margin: 400px 0px;
   text-align: center;
   width: 200px;
-  font-size: 50px;
+  font-size: 40px;
+  align-items: flex-end;
 }
