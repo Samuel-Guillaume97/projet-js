@@ -9,7 +9,7 @@ body{
 
 main{
   display: flex;
-  background-color: #AAA;
+  background-image: url("../images/cartepirate.jpg");
 }
 
 .container{
